@@ -63,7 +63,7 @@ To use this project, follow these steps:
 
 
 
-## Project Video Demo
+## Project Demo
 
 ![Screenshot 2024-10-28 004418](https://github.com/user-attachments/assets/590fbefe-4cc5-477e-92e1-eac1f93927b6)
 
