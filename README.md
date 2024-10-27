@@ -62,7 +62,7 @@ To use this project, follow these steps:
 
 ## Project Video Demo
 
-For a detailed walkthrough of the project, you can watch the [screen-recorded video on Google Drive](https://drive.google.com/file/d/1BHVO8bOhrTDuCdL4CoLcw-ZEGUuQMJ5g/view?usp=drive_link).
+For a detailed walkthrough of the project, you can watch the [Project Demo Video](https://drive.google.com/file/d/1BHVO8bOhrTDuCdL4CoLcw-ZEGUuQMJ5g/view?usp=drive_link).
 
 
 ## Contribution:
