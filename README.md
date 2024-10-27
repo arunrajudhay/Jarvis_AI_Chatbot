@@ -61,3 +61,11 @@ To use this project, follow these steps:
 
 ## Contribution:
 Contributions to this chatbot project are highly encouraged! If you find any bugs, have feature requests, or would like to suggest enhancements, please feel free to open an issue or submit a pull request. Your input will help improve the chatbot's functionality and user experience. Thank you for your interest and support!
+
+## Contact:
+
+Email : [ruarunraj2013@gmail.com](mailto:ruarunraj2013@gmail.com)
+
+Linkedin : https://www.linkedin.com/in/arunraj-r-u-27722a146
+
+Thanks for showing interest in this repository !
