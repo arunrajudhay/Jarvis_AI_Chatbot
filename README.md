@@ -58,3 +58,6 @@ To use this project, follow these steps:
 5. Performance Evaluation - Assessing chatbot performance through metrics like response time, user satisfaction, and interaction logging for continuous improvement.
 6. Feedback Mechanism - Implementing feedback loops to gather user input on chatbot responses, facilitating iterative enhancements and model training.
 7.Deployment and Scalability - Learning about deploying web applications and ensuring scalability for handling multiple user interactions concurrently.
+
+## Contribution:
+Contributions to this chatbot project are highly encouraged! If you find any bugs, have feature requests, or would like to suggest enhancements, please feel free to open an issue or submit a pull request. Your input will help improve the chatbot's functionality and user experience. Thank you for your interest and support!
