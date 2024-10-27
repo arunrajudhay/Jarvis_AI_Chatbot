@@ -10,8 +10,9 @@ Jarvis AI is an interactive chatbot designed to assist users with a wide range o
 4. Usage
 5. Approach
 6. Learning Outcomes of This Project
-7. Contribution
-8. Contact
+7. Project Demo
+8. Contribution
+9. Contact
 
 ## Pre-requisites :
 1. pip install streamlit
