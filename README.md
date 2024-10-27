@@ -60,6 +60,11 @@ To use this project, follow these steps:
 6. Feedback Mechanism - Implementing feedback loops to gather user input on chatbot responses, facilitating iterative enhancements and model training.
 7.Deployment and Scalability - Learning about deploying web applications and ensuring scalability for handling multiple user interactions concurrently.
 
+## Project Video Demo
+
+For a detailed walkthrough of the project, you can watch the [screen-recorded video on Google Drive](https://drive.google.com/file/d/1BHVO8bOhrTDuCdL4CoLcw-ZEGUuQMJ5g/view?usp=drive_link).
+
+
 ## Contribution:
 Contributions to this chatbot project are highly encouraged! If you find any bugs, have feature requests, or would like to suggest enhancements, please feel free to open an issue or submit a pull request. Your input will help improve the chatbot's functionality and user experience. Thank you for your interest and support!
 
