@@ -5,12 +5,13 @@ Jarvis AI is an interactive chatbot designed to assist users with a wide range o
 
 ## Table of Contents
 1. Pre-requisites
-2. Key Technologies and Skills
-3. Usage
-4. Data Scrapping
-5. Storing in MySQL
-6. Querying
-7. Further Improvements
+2. Features
+3. Key Technologies and Skills
+4. Usage
+5. Approach
+6. Learning Outcomes of This Project
+7. Contribution
+8. Contact
 
 ## Pre-requisites :
 1. pip install streamlit
